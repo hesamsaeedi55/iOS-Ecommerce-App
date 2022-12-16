@@ -2,6 +2,14 @@
 Designed and developed an ios ecommerce application which allows users to register account, browse items, shop, create wishlist and search featuring infinite scroll using Swift programming language in Xcode. Implemented a SQL database including different queries coding with php-Laravel framework in VSCode.
 
 
+•	1
+•	2
+•	3
+•	4
+•	5
+•	6
+![image](https://user-images.githubusercontent.com/118046088/208131041-36cef614-27be-4b6b-a254-399022787a04.png)
+
 
 
 
