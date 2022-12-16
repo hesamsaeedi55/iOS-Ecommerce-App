@@ -1,9 +1,17 @@
 # iOS-Ecommerce-App
 Designed and developed an ios ecommerce application which allows users to register account, browse items, shop, create wishlist and search featuring infinite scroll using Swift programming language in Xcode. Implemented a SQL database including different queries coding with php-Laravel framework in VSCode.
 
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
- Markup : * Add a product to wishlist
-          * dsds
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
 
 
  ## Add a product to wishlist ## 
