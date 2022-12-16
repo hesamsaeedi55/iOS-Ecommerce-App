@@ -3,11 +3,10 @@ Designed and developed an ios ecommerce application which allows users to regist
 
 
  Markup : * Add a product to wishlist
- Markup : * Add a product to wishlist
- Markup : * Add a product to wishlist
- Markup : * Add a product to wishlist
- Markup : * Add a product to wishlist
-
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
 
  ## Add a product to wishlist ## 
