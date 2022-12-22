@@ -1,7 +1,7 @@
 
 //
 //  ContentView.swift
-//  TINDER
+//  he
 //
 //  Created by Hesamoddin on 8/31/21.
 //
