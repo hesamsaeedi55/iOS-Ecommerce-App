@@ -1,11 +1,10 @@
 //
 //  RepositoriesList.swift
-//  InfiniteListSwiftUI
+//  he
 //
-//  Created by Vadim Bulavin on 6/10/20.
-//  Copyright © 2020 Vadim Bulavin. All rights reserved.
+//  Created by Hesamoddin on 10/29/21.
+//  Copyright © 2020 Hesamoddin. All rights reserved.
 //
-
 import SwiftUI
 import Combine
 import Alamofire
