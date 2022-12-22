@@ -10,6 +10,9 @@ Designed and developed an ios ecommerce application which allows users to regist
   - keeps user logged in after Sign Up by saving user's token 
 - Login
   - keeps user logged in after Login by saving user's token
+- A Sample of Code Files of the App
+  - Swift Code : Model Structure of Products -> Turning Data into Repositories
+
 
 
 
