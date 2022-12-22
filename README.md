@@ -12,6 +12,7 @@ Designed and developed an ios ecommerce application which allows users to regist
   - keeps user logged in after Login by saving user's token
 - A Sample of Code Files of the App
   - Swift Code : Model Structure of Products -> Turning Data into Repositories
+- A Sample of Database Output of Products With Pagination
 
 
 
@@ -67,3 +68,10 @@ https://user-images.githubusercontent.com/118046088/207925595-985b5bf5-4e8a-4f31
 
  ### part 8 ### 
 <img width="1440" alt="8" src="https://user-images.githubusercontent.com/118046088/209126550-96c28e2e-e684-46e2-9e6b-3b7eb5e53fa4.png">
+
+# A Sample of Database Output of Products With Pagination
+
+<img width="1440" alt="sample database results 2" src="https://user-images.githubusercontent.com/118046088/209133030-fd19b79c-c799-48c7-a8f1-1bdb1c3b268d.png">
+
+<img width="1440" alt="sample database results" src="https://user-images.githubusercontent.com/118046088/209133040-5d127e3d-4e34-4b2d-97a5-bb71be2d7f29.png">
+
