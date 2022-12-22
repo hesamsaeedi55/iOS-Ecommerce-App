@@ -2,15 +2,9 @@
 //  productSquare.swift
 //  he
 //
-//  Created by Hesamoddin on 7/10/22.
-//
+//  Created by Hesamoddin on 10/29/21.
+//  Copyright © 2020 Hesamoddin. All rights reserved.
 
-//
-//  PersonSquare.swift
-//  TINDER
-//
-//  Created by Hesamoddin on 9/21/21.
-//
 
 import SwiftUI
 
