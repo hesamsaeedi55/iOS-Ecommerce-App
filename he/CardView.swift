@@ -89,6 +89,6 @@ struct CardView: View {
             Color.gray.opacity(0.2)
                 .matchedGeometryEffect(id: "color\(item.id)", in: animation)
         )
-        .cornerRadius(15)
+        .cornerRadius(20)
     }
 }
