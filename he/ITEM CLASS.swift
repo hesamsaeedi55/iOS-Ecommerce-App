@@ -15,7 +15,6 @@ struct item : Identifiable {
     var price : String
     var rating : String
     var image : [String]
-    var altImage : String
 }
 
 // NOTE BOTH IMAGE AND COLORS NAME ARE SAME
