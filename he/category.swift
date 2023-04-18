@@ -12,7 +12,7 @@ import SwiftUI
 struct category: View {
     
     
-    
+    //creating a local category connected to category table on database
     
     var categorymen = ["NEW","T-SHIRTS","PANTS","BOOKS","JACKETS","BASICS","JEANS","SHORTS"]
     
